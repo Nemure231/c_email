@@ -1,3 +1,7 @@
+## Try sample
+
+Just open build_production folder, select template you want, edit text or image, and send that html code in your email
+
 <div align="center">
   <p><a href="https://maizzle.com" target="_blank"><img src="https://res.cloudinary.com/maizzle/image/upload/v1553710263/maizzle.svg" width="200" alt="Maizzle"></a></p>
   <p>HTML email development framework</p>
